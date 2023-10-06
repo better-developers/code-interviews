@@ -1,4 +1,4 @@
-# Better Developers Local Weather Dashboard Challenge
+# Local Weather Dashboard
 
 ### Background:
 
