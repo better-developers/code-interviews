@@ -32,4 +32,6 @@ Create a dashboard that displays the current weather as well as future forecasts
 
 ### Submission:
 
-Please send your solution, along with any documentation or instructions needed to understand, run, and test your code. Have fun!
+Please send your solution, along with any documentation or instructions needed to understand, run, and test your code.
+
+Have fun!
