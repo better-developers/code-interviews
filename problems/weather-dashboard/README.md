@@ -22,7 +22,7 @@ Create a dashboard that displays the current weather as well as future forecasts
    - Forecast for the next 7 days.
 
 3. Interface:
-   - You have full creative freedom here! We’re open to seeing solutions ranging from a terminal interface, web applications, RESTful APIs or maybe even an AI application! We'd love to see what you can think to show us.
+   - You have full creative freedom here! We’re open to seeing solutions ranging from a terminal interface, web applications, APIs or maybe even an AI application! We'd love to see what you can think to show us.
 
 ### Tips:
 
