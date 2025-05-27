@@ -12,9 +12,9 @@ Create a dashboard that displays the current weather as well as future forecasts
 
 1. Location Details:
 
-   - Latitude: 56.1518
-   - Longitude: 10.2064
-   - Address: Rosenkrantzgade 19B, 8000 Aarhus C
+   - Latitude: 56.1522
+   - Longitude: 10.2070
+   - Address: Rosenkrantzgade 12D, Stuen, 8000 Aarhus C
 
 2. Output:
 
